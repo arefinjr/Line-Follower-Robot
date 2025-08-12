@@ -1,10 +1,7 @@
 
 /*
-Optimized PID Code for LF-2 Robot (8-channel Analog Sensor)
-Features:
-- Anti-windup
-- Filtered derivative
-- Dynamic speed scaling
+ PID Code for LF Robot (8-channel Analog Sensor)
+
 */
 
 #ifndef cbi
